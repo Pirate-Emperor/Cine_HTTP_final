@@ -1,0 +1,6 @@
+userId,name,city,locations
+a1b,Joe,Paris,"['0001', '0002', '0008']"
+a2c,Jenny,London,"['0003', '0004']"
+b1b,Jack,London,"['0003', '0005']"
+b2c,Jill,Berlin,"['0006', '0007']"
+d4h,Rider,Gaiden,['0000']

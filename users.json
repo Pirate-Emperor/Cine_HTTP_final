@@ -1,0 +1,26 @@
+{
+    "a1b": {
+        "userId": "a1b",
+        "name": "Joe",
+        "city": "Paris",
+        "locations": "['0001', '0002', '0008']"
+    },
+    "a2c": {
+        "userId": "a2c",
+        "name": "Jenny",
+        "city": "London",
+        "locations": "['0003', '0004']"
+    },
+    "b1b": {
+        "userId": "b1b",
+        "name": "Jack",
+        "city": "London",
+        "locations": "['0003', '0005']"
+    },
+    "b2c": {
+        "userId": "b2c",
+        "name": "Jill",
+        "city": "Berlin",
+        "locations": "['0006', '0007']"
+    }
+}

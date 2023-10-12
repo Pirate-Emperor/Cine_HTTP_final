@@ -1,0 +1,26 @@
+[
+    {
+        "userId": "a1b",
+        "name": "Joe",
+        "city": "Paris",
+        "locations": "['0001', '0002', '0008']"
+    },
+    {
+        "userId": "a2c",
+        "name": "Jenny",
+        "city": "London",
+        "locations": "['0003', '0004']"
+    },
+    {
+        "userId": "b1b",
+        "name": "Jack",
+        "city": "London",
+        "locations": "['0003', '0005']"
+    },
+    {
+        "userId": "b2c",
+        "name": "Jill",
+        "city": "Berlin",
+        "locations": "['0006', '0007']"
+    }
+]
