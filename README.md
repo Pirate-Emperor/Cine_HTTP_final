@@ -1,6 +1,6 @@
 # Cine_HTTP_final
 
-This is a simple HTTP project built with Node.js and the Express framework.
+This is a simple HTTP project built with Node.js
 
 ## Prerequisites
 
