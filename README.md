@@ -14,8 +14,8 @@ Make sure you have the following installed on your machine:
 Clone the repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/your-username/my-http-project.git
-cd my-http-project
+git clone https://github.com/Pirate-Emperor/Cine_HTTP_final.git
+cd Cine_HTTP_final
 ```
 
 Install the required npm packages:
