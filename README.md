@@ -1,13 +1,21 @@
 # Cine_HTTP_final
 
-This is a simple HTTP project built with Node.js
+Developed by Pirate-Emperor, Cine_HTTP_final is a Python project that demonstrates the implementation of HTTP protocols to interact with web resources, specifically in the context of a movie application.
+
+## Features
+
+- **HTTP Requests**: Uses Python to make HTTP GET and POST requests to interact with web resources.
+- **Data Parsing**: Extracts and processes data from API responses, such as JSON or XML.
+- **API Interaction**: Demonstrates how to interact with a movie-related API for fetching movie details, showtimes, and reviews.
+- **Error Handling**: Implements error handling mechanisms for HTTP requests and responses.
+- **User-friendly Output**: Formats the fetched data in a readable manner for user consumption.
 
 ## Prerequisites
 
-Make sure you have the following installed on your machine:
+To run the project, you will need:
 
-- Node.js (version >= 10.x.x)
-- npm (version >= 6.x.x)
+- Python 3.x
+- Required Python libraries (e.g., requests, json, etc.)
 
 ## Installation
 
@@ -18,47 +26,31 @@ git clone https://github.com/Pirate-Emperor/Cine_HTTP_final.git
 cd Cine_HTTP_final
 ```
 
-Install the required npm packages:
+Install the required Python packages:
 
 ```bash
-npm install
+pip install -r requirements.txt
 ```
 
 ## Usage
 
-Start the server with the following command:
+Run the main Python script:
 
 ```bash
-npm start
+python main.py
 ```
 
-The server will be running on `http://localhost:3000`.
-
-You can access the following endpoints:
-
-- `GET /`: returns a welcome message.
-- `GET /users`: returns a list of users.
-- `POST /users`: creates a new user (provide user data in request body).
+The script will make HTTP requests to a movie-related API and display the fetched data in a user-friendly format.
 
 ## Development
 
-To run the project in development mode, use:
+To enhance the project, you can modify the Python script in the `src` directory. Some potential areas for improvement include:
 
-```bash
-npm run dev
-```
-
-This will start the server using `nodemon` so that it automatically restarts whenever you make changes to the code.
-
-## Testing
-
-To run the tests, use:
-
-```bash
-npm test
-```
+- Adding support for more movie-related APIs.
+- Implementing a caching mechanism to reduce API calls.
+- Incorporating a user interface for an interactive experience.
+- Expanding the functionality to include movie recommendations and ratings.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
